@@ -2,7 +2,7 @@
 #photo-heading{
 	border:1px solid black;
 	text-align:center;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	color: white;
 	padding: 20px;
 	height:100%;
